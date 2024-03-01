@@ -11,7 +11,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nanggroe Aceh Darussalam (NAD)",
+        "name": "Aceh",
         "province_bps_name": "Aceh",
         "province_bps_code": "11",
         "province_kemendagri_name": "Aceh",
@@ -9843,7 +9843,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bangka Belitung",
+        "name": "Kepulauan Bangka Belitung",
         "province_bps_name": "Kepulauan Bangka Belitung",
         "province_bps_code": "19",
         "province_kemendagri_name": "Kepulauan Bangka Belitung",
@@ -10858,7 +10858,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kep. Riau",
+        "name": "Kepulauan Riau",
         "province_bps_name": "Kepulauan Riau",
         "province_bps_code": "21",
         "province_kemendagri_name": "Kepulauan Riau",
@@ -12039,7 +12039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "DKI Jakarta",
+        "name": "Jakarta",
         "province_bps_name": "Dki Jakarta",
         "province_bps_code": "31",
         "province_kemendagri_name": "Dki Jakarta",
@@ -13744,7 +13744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "D. I. Yogyakarta",
+        "name": "Yogyakarta",
         "province_bps_name": "Daerah Istimewa Yogyakarta",
         "province_bps_code": "34",
         "province_kemendagri_name": "Daerah Istimewa Yogyakarta",
@@ -16984,7 +16984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nusa Tenggara Barat (NTB)",
+        "name": "Nusa Tenggara Barat",
         "province_bps_name": "Nusa Tenggara Barat",
         "province_bps_code": "52",
         "province_kemendagri_name": "Nusa Tenggara Barat",
@@ -18495,7 +18495,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nusa Tenggara Timur (NTT)",
+        "name": "Nusa Tenggara Timur",
         "province_bps_name": "Nusa Tenggara Timur",
         "province_bps_code": "53",
         "province_kemendagri_name": "Nusa Tenggara Timur",
